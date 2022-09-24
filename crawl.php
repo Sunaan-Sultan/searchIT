@@ -181,6 +181,6 @@ function followLinks($url) {
 
 }
 
-$startUrl = "http://www.wikidot.com/";
+$startUrl = "http://mohfw.gov.bd/";
 followLinks($startUrl);
 ?>
